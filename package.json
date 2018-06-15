@@ -4,6 +4,7 @@
   "description": "Uploading traces on cloud",
   "main": "index.js",
   "author": "Artem Denysov",
+  "repository": "denar90/tv-uploader-cli",
   "license": "MIT",
   "bin": {
     "tv-uploader": "bin/cli.js"
