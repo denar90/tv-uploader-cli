@@ -4,7 +4,7 @@ Timeline traces uploader to cloud printing sharable timeline traces to console
 
 ## Usage
 
-`yarn add tv-uploader`
+`yarn add tv-uploader-cli`
 
 `tv-uploader ./timeline-trace.json --storageBucket=my-awesome-firebase-project.appspot.com`
 
