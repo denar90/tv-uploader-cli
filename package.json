@@ -1,0 +1,19 @@
+{
+  "name": "tv-uploader-cli",
+  "version": "0.1.0",
+  "description": "Uploading traces on cloud",
+  "main": "index.js",
+  "author": "Artem Denysov",
+  "license": "MIT",
+  "bin": {
+    "tv-uploader": "bin/cli.js"
+  },
+  "dependencies": {
+    "await-exec": "^0.1.1",
+    "chalk": "^2.4.1",
+    "firebase-admin": "^5.12.1",
+    "gfycat-style-urls": "^1.0.3",
+    "terminal-link": "^1.1.0",
+    "uuid-v4": "^0.1.0"
+  }
+}
